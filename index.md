@@ -2,7 +2,7 @@
 layout: cv
 title: Carlos Andres Ramirez Muñiz's CV
 ---
-# Carlos Andres Ramirez Muñiz
+#Carlos Andres Ramirez Muñiz
 System Engineering College student.
 
 <div id="webaddress">
@@ -29,6 +29,7 @@ Web Development, Blockhain, Cloud computing, DevOps and Data science.
 ## Education
 
 `2019-now`
+
 __Corporacion Universitaria del Caribe CECAR, Sincelejo - Sucre, Colombia.__
 
 
