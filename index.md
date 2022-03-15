@@ -1,39 +1,91 @@
 ---
 layout: cv
-title: Carlos Andres Ramirez Muñiz's CV
+title: Isaac Newtons's CV
 ---
-# Carlos Andres Ramirez Muñiz
-System Engineering College student.
+# Isaac Newton
+Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
-<a href="caramu16@gmail.com">caramu16@gmail.com</a>
-| <a href="tel:3004166347">3004166347</a>
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 </div>
 
 
 ## Currently
 
-As is often the case for College students, I'm currently interested in transitioning from a very wide but shallow T skill set starting with Web Development (UX/UI and Apps) as a first step.
+Standing on the shoulders of giants
 
-We live in a transitory stage where the bulk of the development efforts asked of us is moving from titanic monolithic waterfall designed systems to agile sharded distributed
-systems (whether they be serviced locally or on cloud systems) as such now more than ever mastering the fundamental web principles is key and the bulk of my interest is 
-in how to take advantage of it.
+### Specialized in
 
+Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
 
 ### Research interests
 
-Web Development, Blockhain, Cloud computing, DevOps and Data science.
+Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`2019-now`
-__Corporacion Universitaria del Caribe CECAR, Sincelejo - Sucre, Colombia.__
+`1654-1660`
+__The King's School, Grantham.__
+
+`June 1661 - now`
+__Trinity College, Cambridge__
+
+- Sizar
+
+`1667 - death`
+__Trinity College, Cambridge__
+
+- Fellow
+
+
+
+## Awards
+
+`2012`
+President, *Royal Society*, London, UK
+
+Associate, *French Academy of Science*, Paris, France
+
+
+
+## Publications
+
+<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+
+### Journals
+
+`1669`
+Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+
+`1669`
+Lectiones opticæ.
+
+etc. etc. etc.
+
+### Patents
+
+`2012`
+Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+
+
+## Occupation
+
+`1600`
+__Royal Mint__, London
+
+- Warden
+- Minted coins
+
+`1600`
+__Lucasian professor of Mathematics__, Cambridge University
+
 
 
 <!-- ### Footer
 
-Last updated: March 2022 -->
+Last updated: May 2013 -->
 
 
