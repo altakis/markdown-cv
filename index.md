@@ -2,7 +2,7 @@
 layout: cv
 title: Carlos Andres Ramirez Muñiz's CV
 ---
-# Carlos Andres Ramirez Muñiz
+# Carlos A. Ramirez Muñiz
 System Engineering College student.
 
 <div id="webaddress">
