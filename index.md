@@ -6,8 +6,9 @@ title: Carlos Andres Ramirez Muñiz's CV
  System Engineering College student
 
 <div id="webaddress">
-<a href="caramu16@gmail.com">caramu16@gmail.com</a>
-| <a href="tel:3004186347">3004186347</a>
+<a href="carlos.ramirezm@cecar.edu.co" target="_blank">carlos.ramirezm@cecar.edu.co</a>
+| <a href="https://www.linkedin.com/in/carlos-andres-ramirez-mu%C3%B1iz-883668188/" target="_blank">LinkedIn</a>
+| <a href="https://github.com/ReadingShades" target="_blank">GitHub</a>
 </div>
 
 
@@ -36,5 +37,14 @@ __Microsoft Certified: Azure AI Engineer Associate__
 
 `Expires on February 12, 2025`
 __Microsoft Certified: Azure Data Scientist Associate__
+
+### Computing
+Front-End Web development  - minimal knowledge of react/next, vue, Angular
+
+Back-End Web development - Spring Boot, Django, Flask, Express.js
+
+Mobile development - basic knowledge of Xamarin and react-native
+
+Cloud ops - Docker, Kubernetes, Azure cloud
 
 <!-- ### Footer Last updated: May 2024 -->
