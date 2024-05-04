@@ -26,7 +26,7 @@ Web Development, Blockchain, Cloud computing, DevOps and Data science.
 
 ## Education
 
-`2019-now(exp 2023)`
+`2019-now(exp 2024)`
 __Corporación Universitaria del Caribe CECAR, Sincelejo - Sucre, Colombia.__
 
 
