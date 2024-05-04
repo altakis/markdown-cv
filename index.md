@@ -6,7 +6,7 @@ title: Carlos Andres Ramirez Muñiz's CV
  System Engineering College student
 
 <div id="webaddress">
-<a href="carlos.ramirezm@cecar.edu.co" target="_blank">carlos.ramirezm@cecar.edu.co</a>
+<a href="mailto:carlos.ramirezm@cecar.edu.co">carlos.ramirezm@cecar.edu.co</a>
 | <a href="https://www.linkedin.com/in/carlos-andres-ramirez-mu%C3%B1iz-883668188/" target="_blank">LinkedIn</a>
 | <a href="https://github.com/ReadingShades" target="_blank">GitHub</a>
 </div>
