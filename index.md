@@ -33,10 +33,10 @@ __Corporación Universitaria del Caribe CECAR, Sincelejo - Sucre, Colombia.__
 __Desarrollo de aplicaciones web Misión TIC 2022__
 
 `Expires on December 29, 2024`
-__Microsoft Certified: Azure AI Engineer Associate__
+__<a href="https://learn.microsoft.com/api/credentials/share/en-us/CarlosRamirez-9149/2EA64E7BCA7F09C4?sharingId=E24E0CD780F8FD2E" target="_blank">Microsoft Certified: Azure AI Engineer Associate</a>__
 
 `Expires on February 12, 2025`
-__Microsoft Certified: Azure Data Scientist Associate__
+__<a href="https://learn.microsoft.com/api/credentials/share/en-us/CarlosRamirez-9149/5F37313D6D85C95F?sharingId=E24E0CD780F8FD2E" target="_blank">Microsoft Certified: Azure Data Scientist Associate</a>__
 
 ### Computing
 Front-End Web development  - minimal knowledge of react/next, vue, Angular
