@@ -12,17 +12,13 @@ title: Carlos Andres Ramirez Muñiz's CV
 </div>
 
 
-## Currently
+## Experienced in
 
-<p style="text-align: justify">As is often the case for College students, I'm currently interested in transitioning from a very wide but shallow T skill set starting with Web Development (UX/UI and Apps) as a first step to get real life experience in the real world. </p>
+<p style="text-align: justify">Microservices based solutions and applied AI - specifically object detection.</p>
 
-<p style="text-align: justify">We live in a transitory stage where the bulk of the development efforts asked of us is moving from titanic monolithic waterfall designed systems to agile sharded distributed systems (whether they be serviced locally or on cloud providers) as such now more than ever mastering the fundamental web principles is key and the bulk of my interest is in how to navigate the ecosystem. </p>
+## Research interests
 
-
-
-### Research interests
-
-Web Development, Blockchain, Cloud computing, DevOps and Data science.
+<p style="text-align: justify">Data science, Web Development, Cloud computing, DevOps and Blockchain. </p>
 
 
 ## Education
@@ -39,11 +35,11 @@ __<a href="https://learn.microsoft.com/api/credentials/share/en-us/CarlosRamirez
 __<a href="https://learn.microsoft.com/api/credentials/share/en-us/CarlosRamirez-9149/5F37313D6D85C95F?sharingId=E24E0CD780F8FD2E" target="_blank">Microsoft Certified: Azure Data Scientist Associate</a>__
 
 ### Computing
-Front-End Web development  - minimal knowledge of react/next, vue, Angular
+Front-End Web development  - Functional knowledge of react/next, vue, Angular
 
 Back-End Web development - Spring Boot, Django, Flask, Express.js
 
-Mobile development - basic knowledge of Xamarin and react-native
+Mobile development - Functional knowledge of Xamarin and react-native
 
 Cloud ops - Docker, Kubernetes, Azure cloud
 
