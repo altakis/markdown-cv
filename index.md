@@ -23,7 +23,7 @@ System Engineer
 
 ## Education
 `2019-now(exp 2025)`
-__BASc, Corporación Universitaria del Caribe CECAR, Sincelejo - Sucre, Colombia__ Ingenieria de sistemas
+__BASc, Corporación Universitaria del Caribe CECAR__ Ingenieria de sistemas
 
 `2022`
 __Desarrollo de aplicaciones web Misión TIC 2022 - Universidad Sergio Arboleda__
