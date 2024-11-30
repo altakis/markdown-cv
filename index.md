@@ -3,7 +3,7 @@ layout: cv
 title: Carlos Andres Ramirez Muñiz's CV
 ---
 # Carlos Andres Ramirez Muñiz
- System Engineering College student
+System Engineer
 
 <div id="webaddress">
 <a href="mailto:carlos.ramirezm@cecar.edu.co">carlos.ramirezm@cecar.edu.co</a>
@@ -23,6 +23,7 @@ title: Carlos Andres Ramirez Muñiz's CV
 
 ## Education
 `2019-now(exp 2024)`
+__Ingenieria de sistemas
 __Corporación Universitaria del Caribe CECAR, Sincelejo - Sucre, Colombia.__
 
 `2022`
